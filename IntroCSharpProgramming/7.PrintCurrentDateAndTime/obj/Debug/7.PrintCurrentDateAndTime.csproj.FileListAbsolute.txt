@@ -1,0 +1,5 @@
+C:\Users\A.Gandev\Dropbox\Mitev@work\VS Projects\IntroCSharpProgramming\7.PrintCurrentDateAndTime\bin\Debug\7.PrintCurrentDateAndTime.exe.config
+C:\Users\A.Gandev\Dropbox\Mitev@work\VS Projects\IntroCSharpProgramming\7.PrintCurrentDateAndTime\bin\Debug\7.PrintCurrentDateAndTime.exe
+C:\Users\A.Gandev\Dropbox\Mitev@work\VS Projects\IntroCSharpProgramming\7.PrintCurrentDateAndTime\bin\Debug\7.PrintCurrentDateAndTime.pdb
+C:\Users\A.Gandev\Dropbox\Mitev@work\VS Projects\IntroCSharpProgramming\7.PrintCurrentDateAndTime\obj\Debug\7.PrintCurrentDateAndTime.exe
+C:\Users\A.Gandev\Dropbox\Mitev@work\VS Projects\IntroCSharpProgramming\7.PrintCurrentDateAndTime\obj\Debug\7.PrintCurrentDateAndTime.pdb

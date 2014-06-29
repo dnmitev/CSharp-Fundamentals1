@@ -1,0 +1,5 @@
+C:\Users\A.Gandev\Dropbox\Mitev@work\VS Projects\IntroCSharpProgramming\PrintMyName\bin\Debug\PrintMyName.exe.config
+C:\Users\A.Gandev\Dropbox\Mitev@work\VS Projects\IntroCSharpProgramming\PrintMyName\bin\Debug\PrintMyName.exe
+C:\Users\A.Gandev\Dropbox\Mitev@work\VS Projects\IntroCSharpProgramming\PrintMyName\bin\Debug\PrintMyName.pdb
+C:\Users\A.Gandev\Dropbox\Mitev@work\VS Projects\IntroCSharpProgramming\PrintMyName\obj\Debug\PrintMyName.exe
+C:\Users\A.Gandev\Dropbox\Mitev@work\VS Projects\IntroCSharpProgramming\PrintMyName\obj\Debug\PrintMyName.pdb

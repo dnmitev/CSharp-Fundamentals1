@@ -1,0 +1,9 @@
+C:\Users\A.Gandev\Dropbox\Mitev@work\VS Projects\IntroCSharpProgramming\IntroCSharpProgramming\bin\Debug\IntroCSharpProgramming.exe.config
+C:\Users\A.Gandev\Dropbox\Mitev@work\VS Projects\IntroCSharpProgramming\IntroCSharpProgramming\bin\Debug\IntroCSharpProgramming.exe
+C:\Users\A.Gandev\Dropbox\Mitev@work\VS Projects\IntroCSharpProgramming\IntroCSharpProgramming\bin\Debug\IntroCSharpProgramming.pdb
+C:\Users\A.Gandev\Dropbox\Mitev@work\VS Projects\IntroCSharpProgramming\IntroCSharpProgramming\obj\Debug\2.HelloCSharp.csprojResolveAssemblyReference.cache
+C:\Users\A.Gandev\Dropbox\Mitev@work\VS Projects\IntroCSharpProgramming\IntroCSharpProgramming\obj\Debug\IntroCSharpProgramming.exe
+C:\Users\A.Gandev\Dropbox\Mitev@work\VS Projects\IntroCSharpProgramming\IntroCSharpProgramming\obj\Debug\IntroCSharpProgramming.pdb
+C:\Users\Dimitar Mitev\Dropbox\Mitev@work\VS Projects\IntroCSharpProgramming\IntroCSharpProgramming\bin\Debug\IntroCSharpProgramming.exe.config
+C:\Users\Dimitar Mitev\Dropbox\Mitev@work\VS Projects\IntroCSharpProgramming\IntroCSharpProgramming\obj\Debug\IntroCSharpProgramming.exe
+C:\Users\Dimitar Mitev\Dropbox\Mitev@work\VS Projects\IntroCSharpProgramming\IntroCSharpProgramming\obj\Debug\IntroCSharpProgramming.pdb

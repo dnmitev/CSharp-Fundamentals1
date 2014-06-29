@@ -1,0 +1,30 @@
+C:\Users\Dimitar Mitev\Dropbox\Mitev@work\VS Projects\ConsoleInputOutput\FallingRocks\bin\Debug\FallingRocks.exe.config
+C:\Users\Dimitar Mitev\Dropbox\Mitev@work\VS Projects\ConsoleInputOutput\FallingRocks\bin\Debug\FallingRocks.exe
+C:\Users\Dimitar Mitev\Dropbox\Mitev@work\VS Projects\ConsoleInputOutput\FallingRocks\bin\Debug\FallingRocks.pdb
+C:\Users\Dimitar Mitev\Dropbox\Mitev@work\VS Projects\ConsoleInputOutput\FallingRocks\obj\Debug\11. FallingRocks.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar Mitev\Dropbox\Mitev@work\VS Projects\ConsoleInputOutput\FallingRocks\obj\Debug\FallingRocks.exe
+C:\Users\Dimitar Mitev\Dropbox\Mitev@work\VS Projects\ConsoleInputOutput\FallingRocks\obj\Debug\FallingRocks.pdb
+C:\Users\A.Gandev\Dropbox\Mitev@work\VS Projects\ConsoleInputOutput\FallingRocks\bin\Debug\FallingRocks.exe.config
+C:\Users\A.Gandev\Dropbox\Mitev@work\VS Projects\ConsoleInputOutput\FallingRocks\obj\Debug\FallingRocks.exe
+C:\Users\A.Gandev\Dropbox\Mitev@work\VS Projects\ConsoleInputOutput\FallingRocks\obj\Debug\FallingRocks.pdb
+C:\Users\A.Gandev\Dropbox\Mitev@work\VS Projects\ConsoleInputOutput\FallingRocks\bin\Debug\FallingRocks.exe.manifest
+C:\Users\A.Gandev\Dropbox\Mitev@work\VS Projects\ConsoleInputOutput\FallingRocks\bin\Debug\FallingRocks.application
+C:\Users\A.Gandev\Dropbox\Mitev@work\VS Projects\ConsoleInputOutput\FallingRocks\bin\Debug\FallingRocks.exe
+C:\Users\A.Gandev\Dropbox\Mitev@work\VS Projects\ConsoleInputOutput\FallingRocks\bin\Debug\FallingRocks.pdb
+C:\Users\A.Gandev\Dropbox\Mitev@work\VS Projects\ConsoleInputOutput\FallingRocks\obj\Debug\11. FallingRocks.csprojResolveAssemblyReference.cache
+C:\Users\A.Gandev\Dropbox\Mitev@work\VS Projects\ConsoleInputOutput\FallingRocks\obj\Debug\FallingRocks.exe.manifest
+C:\Users\A.Gandev\Dropbox\Mitev@work\VS Projects\ConsoleInputOutput\FallingRocks\obj\Debug\FallingRocks.application
+C:\Users\Dimitar Mitev\Dropbox\Mitev@work\VS Projects\ConsoleInputOutput\FallingRocks\bin\Debug\FallingRocks.exe.manifest
+C:\Users\Dimitar Mitev\Dropbox\Mitev@work\VS Projects\ConsoleInputOutput\FallingRocks\bin\Debug\FallingRocks.application
+C:\Users\Dimitar Mitev\Dropbox\Mitev@work\VS Projects\ConsoleInputOutput\FallingRocks\obj\Debug\FallingRocks.exe.manifest
+C:\Users\Dimitar Mitev\Dropbox\Mitev@work\VS Projects\ConsoleInputOutput\FallingRocks\obj\Debug\FallingRocks.application
+C:\Users\Dimitar\Dropbox\Mitev@work\VS Projects\ConsoleInputOutput\FallingRocks\bin\Debug\FallingRocks.exe.config
+C:\Users\Dimitar\Dropbox\Mitev@work\VS Projects\ConsoleInputOutput\FallingRocks\obj\Debug\FallingRocks.exe
+C:\Users\Dimitar\Dropbox\Mitev@work\VS Projects\ConsoleInputOutput\FallingRocks\obj\Debug\FallingRocks.pdb
+C:\Users\Dimitar\Dropbox\Mitev@work\VS Projects\ConsoleInputOutput\FallingRocks\bin\Debug\FallingRocks.exe.manifest
+C:\Users\Dimitar\Dropbox\Mitev@work\VS Projects\ConsoleInputOutput\FallingRocks\bin\Debug\FallingRocks.application
+C:\Users\Dimitar\Dropbox\Mitev@work\VS Projects\ConsoleInputOutput\FallingRocks\bin\Debug\FallingRocks.exe
+C:\Users\Dimitar\Dropbox\Mitev@work\VS Projects\ConsoleInputOutput\FallingRocks\bin\Debug\FallingRocks.pdb
+C:\Users\Dimitar\Dropbox\Mitev@work\VS Projects\ConsoleInputOutput\FallingRocks\obj\Debug\11. FallingRocks.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Dropbox\Mitev@work\VS Projects\ConsoleInputOutput\FallingRocks\obj\Debug\FallingRocks.exe.manifest
+C:\Users\Dimitar\Dropbox\Mitev@work\VS Projects\ConsoleInputOutput\FallingRocks\obj\Debug\FallingRocks.application

@@ -1,0 +1,2 @@
+C:\Users\A.Gandev\Dropbox\Mitev@work\VS Projects\CSharp1ExamPreparation\CoffeeVendingMachine\bin\Debug\CoffeeVendingMachine.exe.config
+C:\Users\Dimitar Mitev\Dropbox\Mitev@work\VS Projects\CSharp1ExamPreparation\CoffeeVendingMachine\bin\Debug\CoffeeVendingMachine.exe.config

@@ -1,0 +1,5 @@
+C:\Users\A.Gandev\Dropbox\Mitev@work\VS Projects\IntroCSharpProgramming\8.CalculateAndPrintSqRoot\bin\Debug\8.CalculateAndPrintSqRoot.exe.config
+C:\Users\A.Gandev\Dropbox\Mitev@work\VS Projects\IntroCSharpProgramming\8.CalculateAndPrintSqRoot\bin\Debug\8.CalculateAndPrintSqRoot.exe
+C:\Users\A.Gandev\Dropbox\Mitev@work\VS Projects\IntroCSharpProgramming\8.CalculateAndPrintSqRoot\bin\Debug\8.CalculateAndPrintSqRoot.pdb
+C:\Users\A.Gandev\Dropbox\Mitev@work\VS Projects\IntroCSharpProgramming\8.CalculateAndPrintSqRoot\obj\Debug\8.CalculateAndPrintSqRoot.exe
+C:\Users\A.Gandev\Dropbox\Mitev@work\VS Projects\IntroCSharpProgramming\8.CalculateAndPrintSqRoot\obj\Debug\8.CalculateAndPrintSqRoot.pdb

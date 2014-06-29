@@ -1,0 +1,8 @@
+C:\Users\A.Gandev\Dropbox\Mitev@work\VS Projects\IntroCSharpProgramming\12.AgeAfter10Years\bin\Debug\12.AgeAfter10Years.exe.config
+C:\Users\A.Gandev\Dropbox\Mitev@work\VS Projects\IntroCSharpProgramming\12.AgeAfter10Years\bin\Debug\12.AgeAfter10Years.exe
+C:\Users\A.Gandev\Dropbox\Mitev@work\VS Projects\IntroCSharpProgramming\12.AgeAfter10Years\bin\Debug\12.AgeAfter10Years.pdb
+C:\Users\A.Gandev\Dropbox\Mitev@work\VS Projects\IntroCSharpProgramming\12.AgeAfter10Years\obj\Debug\12.AgeAfter10Years.exe
+C:\Users\A.Gandev\Dropbox\Mitev@work\VS Projects\IntroCSharpProgramming\12.AgeAfter10Years\obj\Debug\12.AgeAfter10Years.pdb
+C:\Users\Dimitar Mitev\Dropbox\Mitev@work\VS Projects\IntroCSharpProgramming\12.AgeAfter10Years\bin\Debug\12.AgeAfter10Years.exe.config
+C:\Users\Dimitar Mitev\Dropbox\Mitev@work\VS Projects\IntroCSharpProgramming\12.AgeAfter10Years\obj\Debug\12.AgeAfter10Years.exe
+C:\Users\Dimitar Mitev\Dropbox\Mitev@work\VS Projects\IntroCSharpProgramming\12.AgeAfter10Years\obj\Debug\12.AgeAfter10Years.pdb

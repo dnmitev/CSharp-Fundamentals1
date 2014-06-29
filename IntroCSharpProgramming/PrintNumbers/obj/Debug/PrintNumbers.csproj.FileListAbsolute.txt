@@ -1,0 +1,5 @@
+C:\Users\A.Gandev\Dropbox\Mitev@work\VS Projects\IntroCSharpProgramming\PrintNumbers\bin\Debug\PrintNumbers.exe.config
+C:\Users\A.Gandev\Dropbox\Mitev@work\VS Projects\IntroCSharpProgramming\PrintNumbers\bin\Debug\PrintNumbers.exe
+C:\Users\A.Gandev\Dropbox\Mitev@work\VS Projects\IntroCSharpProgramming\PrintNumbers\bin\Debug\PrintNumbers.pdb
+C:\Users\A.Gandev\Dropbox\Mitev@work\VS Projects\IntroCSharpProgramming\PrintNumbers\obj\Debug\PrintNumbers.exe
+C:\Users\A.Gandev\Dropbox\Mitev@work\VS Projects\IntroCSharpProgramming\PrintNumbers\obj\Debug\PrintNumbers.pdb

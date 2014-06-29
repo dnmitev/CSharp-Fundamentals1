@@ -1,0 +1,8 @@
+C:\Users\A.Gandev\Dropbox\Mitev@work\VS Projects\IntroCSharpProgramming\9.PrintFirst10MemebersOfSequence\bin\Debug\9.PrintFirst10MemebersOfSequence.exe.config
+C:\Users\A.Gandev\Dropbox\Mitev@work\VS Projects\IntroCSharpProgramming\9.PrintFirst10MemebersOfSequence\bin\Debug\9.PrintFirst10MemebersOfSequence.exe
+C:\Users\A.Gandev\Dropbox\Mitev@work\VS Projects\IntroCSharpProgramming\9.PrintFirst10MemebersOfSequence\bin\Debug\9.PrintFirst10MemebersOfSequence.pdb
+C:\Users\A.Gandev\Dropbox\Mitev@work\VS Projects\IntroCSharpProgramming\9.PrintFirst10MemebersOfSequence\obj\Debug\9.PrintFirst10MemebersOfSequence.exe
+C:\Users\A.Gandev\Dropbox\Mitev@work\VS Projects\IntroCSharpProgramming\9.PrintFirst10MemebersOfSequence\obj\Debug\9.PrintFirst10MemebersOfSequence.pdb
+C:\Users\Dimitar Mitev\Dropbox\Mitev@work\VS Projects\IntroCSharpProgramming\9.PrintFirst10MemebersOfSequence\bin\Debug\9.PrintFirst10MemebersOfSequence.exe.config
+C:\Users\Dimitar Mitev\Dropbox\Mitev@work\VS Projects\IntroCSharpProgramming\9.PrintFirst10MemebersOfSequence\obj\Debug\9.PrintFirst10MemebersOfSequence.exe
+C:\Users\Dimitar Mitev\Dropbox\Mitev@work\VS Projects\IntroCSharpProgramming\9.PrintFirst10MemebersOfSequence\obj\Debug\9.PrintFirst10MemebersOfSequence.pdb
